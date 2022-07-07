@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../learn-CSS/mywebsite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Gurselpasa"
+	}
+}
